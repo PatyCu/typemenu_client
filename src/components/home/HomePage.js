@@ -7,6 +7,8 @@ class HomePage extends Component {
     return (
       <div className="HomePage">
         <h1>Home Page</h1>
+        <p>This is Typemenu's homepage!</p>
+        <p>Lorem ipsum dolor sit amet...</p>
       </div>
     );
   }
